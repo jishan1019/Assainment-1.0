@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Design */
+
+header {
+    background-image: url(../images/banner/banner3.png);
+    background-size: cover;
+    height: 808px;
+    width: 1600px;
+}
+
+.nav-title {
+    text-align: right;
+    padding: 200px 200px 0px 50px;
+
+}
+
+.nav-title-text {
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.nav-sub-title {
+    margin-top: 20px;
+    padding-bottom: 8px;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.contact-us-button {
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    width: 160px;
+    height: 64px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: none;
+}
+
+/* Main Body Design */
